@@ -24,8 +24,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Zijun He"
-  pronouns         : "He/Him" # example: "she/her"  
-  Research Interest: "Astrophysics, Exoplanets"
+  pronouns         : # example: "she/her"  
+  bio              : "Astrophysics, Exoplanets"
   location         : "Madison, WI"
   employer         : "West High School"
   url              : # URL
