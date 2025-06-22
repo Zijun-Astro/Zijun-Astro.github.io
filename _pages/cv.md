@@ -49,8 +49,11 @@ Research Experience:
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
+  {% unless post.cv_display == false %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endunless %}
+{% endfor %}
+</ul>
   
 Presentations
 ======
