@@ -7,7 +7,7 @@ permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper is an analysis of TOI-1937Ab and the TOI-1937A system.'
 date: 2025-03-31
 venue: 'Publications of the Astronomical Society of the Pacific'
-paperurl: 'https://iopscience.iop.org/article/10.1088/1538-3873/adbfbb/pdf'
+paperurl: 'https://iopscience.iop.org/article/10.1088/1538-3873/adbfbb'
 citation: 'Alyssa R. Jankowski et al 2025 PASP 137 034401'
 ---
 
