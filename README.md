@@ -2,6 +2,9 @@
 **Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
 
 ![Academic Pages template example](images/homepage.png "Academic Pages template example")
+# Additional Notes
+
+**1(6/22/2025):** Once you get another Research Paper Change cv_display in the file in _publication (EX: publication/2024-02-17-paper-title-number-4) from false to true.
 
 # Getting Started
 
