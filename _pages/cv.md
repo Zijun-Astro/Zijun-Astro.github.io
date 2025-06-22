@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-West High School								Madison, Wisconsin
-                                2022-Present
+**West High School**								Madison, Wisconsin
+                                    from 2022-Present
 
 Research Interests:
 ======
