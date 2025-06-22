@@ -15,4 +15,4 @@ Zijun has also conducted research through academic programs such as the Hubert M
 
 Zijun was also selected as 1 of 150 students for the NASA STEM Enhancement in Earth Science internship, hosted by the Center for Space Research at the University of Austin Texas. He is working with seven other students on understanding exoplanet transits in greater depth.
 
-He plans to pursue a degree in astrophysics or physics, with long-term goals of contributing to scientific research and education.
+He plans to pursue a degree in astrophysics or physics and continuing to be a researcher in the field of astronomy. He hopes to eventually teach students the wonders of astronomy.
