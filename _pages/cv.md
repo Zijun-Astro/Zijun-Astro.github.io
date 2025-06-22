@@ -46,13 +46,13 @@ Research Experience:
   * Explained the benefits of the Multi-Component Linear Regression Methodology versus the standard Gregory Method.
 
 
-Publications and Presentations
+Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Presentations
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
