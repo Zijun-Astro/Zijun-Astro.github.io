@@ -37,12 +37,17 @@ Research Experience:
   * Team was awarded the [SLI Payload Design Award](https://www.nasa.gov/learning-resources/nasa-student-launch/current-teams/)
 
 * **NASA STEM Enhancement in Earth Science (SEES):**
-  *  
+  *  Accepted for the NASA SEES 2025 Cohort.
+  *  Utilizing HOPS, AstroImageJ, Stellarium, nd Markov-Chain-Monte-Carlo to analyze data from SARA and TESS.
+  *  Presenting the analysis at the American Geophysical Union Fall Conference.
 
-* **Harvard Spatial Data Lab (March 2025 - Present):**
+* **AGU Bright STaRs Research Internship:**
+  * High School Research Presenter at the American Geophysical Union through the Bright STaRs Research Session.
+  * Presented on extrapolation methodologies of three-dimensional general circulation models using ROCKE-3D data.
+  * Explained the benefits of the Multi-Component Linear Regression Methodology versus the standard Gregory Method.
 
 
-Publications
+Publications and Presentations
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
