@@ -11,17 +11,16 @@ redirect_from:
 
 Education
 ======
-**West High School**								Madison, Wisconsin
+**West High School**								Madison, WI
                                     from 2022-Present
 
 Research Interests:
 ======
-Astrophysics, Exoplanetary Science, Aerospace Engineering, Planetary Science, Engineering
+Astrophysics, Exoplanetary Science
   
 Research Experience:
 ======
 * **Hubert Mack Thaxton Fellowship Intern, Department of Astronomy UW-Madison (June 2024 - August 2024):**
-  * 1 of 2 High School Students chosen in Wisconsin for the Hubert Mack Thaxton Research Fellowship. 
   * Performed a mass constraint and TTV Analysis of the TOI-4468 system.
   * Utilized a Markov-Chain-Monte-Carlo fitting algorithm on both Radial Velocity Data and TESS Data.
  
