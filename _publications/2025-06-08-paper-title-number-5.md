@@ -1,5 +1,6 @@
 ---
-title: "The Ambiguous Age and Tidal History for the Ultra-hot Jupiter TOI-1937Ab"
+title: "Jankowski, A.; Becker, J.; Soares-Furtado, M., Vanderburg, A.; He, Z.
+The Ambiguous Age and Tidal History for the Ultra-hot Jupiter TOI-1937Ab"
 collection: publications
 category: manuscripts
 cv_display: true
