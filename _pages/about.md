@@ -7,12 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Zijun He is a high school student from Madison, Wisconsin with academic interests in physics and astronomy. He is currently learning about the science of astronomy and is utilizing Markov-Chain-Monte-Carlo (MCMC) Simulations to probe the characteristics of exoplanets.
+Zijun He is a high school student from Madison, Wisconsin with academic interests in physics and astronomy. He is currently using Markov Chain Monte Carlo (MCMC) simulations to study the characteristics of exoplanets and has conducted transit timing variation (TTV) analyses of systems such as TOI-1130 and TOI-4468.
 
-In addition to the exoplanetary works, he has participated in research and engineering-focused programs including NASA Student Launch, where he contributed to projects involving rocket design, payload development, and data analysis. 
+Through the Hubert Mack Thaxton Research Fellowship and other academic programs, he has used tools like Python and Jupyter Notebook to explore exoplanet masses and orbital dynamics. He also participates in engineering-focused initiatives such as NASA Student Launch, where he contributes to rocket design, payload development, and data analysis.
 
-Zijun has also conducted research through academic programs such as the Hubert Mack Thaxton Research Fellowship where he utilized MCMC fitting techniques to learn more about the masses of the b and c planets in the TOI-4468 System. Furthermore, he has used transit timing variation (TTV) analysis of exoplanetary systems to learn more about TOI-1130 and TOI-4468. He has used tools such as Python, Jupyter Notebook, and MCMC methods in support of these projects.
-
-Zijun was also selected as 1 of 150 students for the NASA STEM Enhancement in Earth Science internship, hosted by the Center for Space Research at the University of Austin Texas. He is working with seven other students on understanding exoplanet transits in greater depth.
-
-He plans to pursue a degree in astrophysics or physics and continuing to be a researcher in the field of astronomy. He hopes to eventually teach students the wonders of astronomy.
+In 2025, Zijun was selected for the NASA STEM Enhancement in Earth Sciences (SEES) internship, where he is collaborating with a research team to study exoplanet transits in greater detail. He plans to pursue a degree in astrophysics or physics, with the goal of continuing research and teaching in the field of astronomy.
