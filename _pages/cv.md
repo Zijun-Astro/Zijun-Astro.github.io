@@ -86,10 +86,14 @@ Awards
 
 Teaching
 ======
+* Astronomy Program Leader at Madison School & Community Recreation
+* Tennis Coach at the Greater Madison Tennis Association
+{% comment %}
 <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+{% endcomment %}
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
