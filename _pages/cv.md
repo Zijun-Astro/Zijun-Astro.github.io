@@ -93,5 +93,5 @@ Teaching
 Service and leadership
 ======
 * Madison West High School Rocketry Captain and Fundraising Coordinator
-* Academic and Career Planning Chair
-* Madison West High School Senior Citizens CORE Committee Chair Member
+* Academic and Career Planning Chair, Madison West High School
+* Senior Citizens CORE Committee Chair Member, Madison West High School
