@@ -1,5 +1,5 @@
 ---
-title: "Madison School and Community Recreation Program Leader [(Link)](https://www.mscr.org/)"
+title: "Madison School and Community Recreation Astronomy Program Leader [(Link)](https://www.mscr.org/)"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
