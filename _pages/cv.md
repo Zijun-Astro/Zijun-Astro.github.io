@@ -28,7 +28,7 @@ Research Experience:
 {% endcomment %}
 
  
-* **05/2025 - 12/2025: NASA STEM Enhancement in Earth Science (SEES)**
+* **05/2025 - 12/2025: NASA STEM Enhancement in Earth Science (NASA SEES)**
 {% comment %}
 <!--  * Accepted for the NASA SEES 2025 Cohort.
   * Utilizing HOPS, AstroImageJ, Stellarium, nd Markov-Chain-Monte-Carlo to analyze data from SARA and TESS.
