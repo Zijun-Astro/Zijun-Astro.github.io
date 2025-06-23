@@ -20,7 +20,7 @@ Astrophysics, Exoplanetary Science
   
 Research Experience:
 ======
-* **09/2024 - Present: Research Assistant, Department of Astronomy, UW-Madison**
+* **05/2025 - Present: Research Assistant, Department of Astronomy, UW-Madison**
 {% comment %}
 <!-- * Performed a TTV Analysis & and confirmation for the TOI-1937Ab system utilizing data from Andrew Vanderburg.
   * Published with Alyssa Jankowski as the 5th author on a research paper in PASP.
@@ -28,7 +28,7 @@ Research Experience:
 {% endcomment %}
 
  
-* **05/2025 - 12/2025: NASA STEM Enhancement in Earth Science (NASA SEES)**
+* **05/2025 - 12/2025: NASA STEM Enhancement in Earth Science Program (NASA SEES)**
 {% comment %}
 <!--  * Accepted for the NASA SEES 2025 Cohort.
   * Utilizing HOPS, AstroImageJ, Stellarium, nd Markov-Chain-Monte-Carlo to analyze data from SARA and TESS.
@@ -42,13 +42,13 @@ Research Experience:
   * Presented Research through the 2025 Harvard CGA Conference. -->
 {% endcomment %}
 
-* **06/2024 - 05/2025: Hubert Mack Thaxton Fellowship, Department of Physics, UW-Madison**
+* **06/2024 - 05/2025: Hubert Mack Thaxton Fellow, Department of Physics, UW-Madison**
 {% comment %}
 <!--  * Performed a mass constraint and TTV Analysis of the TOI-4468 system.
   * Utilized a Markov-Chain-Monte-Carlo fitting algorithm on both Radial Velocity Data and TESS Data. -->
 {% endcomment %}
 
-* **09/2024 - 06/2024: NASA Student Launch**
+* **09/2024 - 05/2025: NASA Student Launch**
 {% comment %}
 <!--  * Data Analysis Lead and Hardware Engineer for the Madison West Rocket Club NASA Student Launch Team.
   * Worked on developing the Data Analysis Procedure to determine the effectiveness of baffle designs
@@ -56,7 +56,7 @@ Research Experience:
   * Team was awarded the [SLI Payload Design Award](https://www.nasa.gov/learning-resources/nasa-student-launch/current-teams/) -->
 {% endcomment %}
 
-* **06/2023 - 12/2023: AGU Bright STaRs Research Internship**
+* **06/2023 - 12/2023: AGU Bright STaRs Research Students Training Program**
 {% comment %}
 <!--  * High School Research Presenter at the American Geophysical Union through the Bright STaRs Research Session.
   * Presented on extrapolation methodologies of three-dimensional general circulation models using ROCKE-3D data.
