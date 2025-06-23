@@ -86,14 +86,10 @@ Awards
 
 Teaching
 ======
-* Astronomy Program Leader at Madison School & Community Recreation
-* Tennis Coach at the Greater Madison Tennis Association
-{% comment %}
 <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-{% endcomment %}
-
+  
 Service and leadership
 ======
 * Madison West High School Rocketry Captain and Fundraising Coordinator
