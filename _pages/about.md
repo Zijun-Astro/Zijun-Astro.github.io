@@ -13,4 +13,4 @@ I was given the opportunity to work with [Alyssa Jankowski](https://alyssajankow
 
 I also participate in engineering-focused initiatives such as [NASA Student Launch](https://www.nasa.gov/learning-resources/nasa-student-launch/), where I contributed to rocket design, payload development, and data analysis on the SLOSH mechanics of baffles within the "fuel tanks" of a rocket. Furthermore, I love to teach children and teens of all ages the wonders of astronomy and exoplanets through [Madison School & Community Recreation](https://www.mscr.org/) (MSCR) program.
 
-I plan to pursue a degree in astrophysics, with the goal of continuing research and teaching students the passion I felt for astronomy!
+I plan to pursue a degree in astrophysics, with the goal of conducting research and teaching students the passion I felt for astronomy!
