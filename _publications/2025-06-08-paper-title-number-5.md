@@ -1,6 +1,6 @@
 ---
 title: "Jankowski, A.; Becker, J.; Soares-Furtado, M., Vanderburg, A.; He, Z.
-The Ambiguous Age and Tidal History for the Ultra-hot Jupiter TOI-1937Ab. PASP, 2025 [(Link)](https://iopscience.iop.org/article/10.1088/1538-3873/adbfbb)"
+The Ambiguous Age and Tidal History for the Ultra-hot Jupiter TOI-1937Ab. PASP, 2025. [(Link)](https://iopscience.iop.org/article/10.1088/1538-3873/adbfbb)"
 collection: publications
 category: manuscripts
 cv_display: true
