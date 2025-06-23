@@ -42,7 +42,7 @@ Research Experience:
   * Presented Research through the 2025 Harvard CGA Conference. -->
 {% endcomment %}
 
-* **06/2024 - 05/2025: Hubert Mack Thaxton Fellowship Intern, Department of Physics, UW-Madison**
+* **06/2024 - 05/2025: Hubert Mack Thaxton Fellowship, Department of Physics, UW-Madison**
 {% comment %}
 <!--  * Performed a mass constraint and TTV Analysis of the TOI-4468 system.
   * Utilized a Markov-Chain-Monte-Carlo fitting algorithm on both Radial Velocity Data and TESS Data. -->
