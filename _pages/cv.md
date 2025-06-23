@@ -81,8 +81,8 @@ Presentations
 Awards
 ======
 * [**Hubert Mack Thaxton Research Fellowship**](https://www.physics.wisc.edu/undergraduate/student-resources/hubert-mack-thaxton-fellowship/)
-* [**SLI Payload Design Award, NASA Student Launch**](https://www.nasa.gov/learning-resources/nasa-student-launch/current-teams/)
 * [**NASA SEES Summer Research Internship**](https://www.csr.utexas.edu/education-outreach/high-school-internships/sees/)
+* [**SLI Payload Design Award, NASA Student Launch**](https://www.nasa.gov/learning-resources/nasa-student-launch/current-teams/)
 
 Teaching
 ======
@@ -92,6 +92,6 @@ Teaching
   
 Service and leadership
 ======
-* Madison West High School Rocketry Captain and Fundraising Coordinator
+* Madison West High School Rocketry Lead and Fundraising Coordinator
 * Academic and Career Planning Chair, Madison West High School
 * Senior Citizens CORE Committee Chair Member, Madison West High School
