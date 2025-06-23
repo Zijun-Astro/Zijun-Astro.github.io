@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-**West High School**								Madison, WI
-                                    from 2022-Present
+**West High School**								Madison, WI,
+                                    2022-Present
 
 Research Interests:
 ======
@@ -42,7 +42,7 @@ Research Experience:
   * Presented Research through the 2025 Harvard CGA Conference. -->
 {% endcomment %}
 
-* **06/2024 - 08/2024: Hubert Mack Thaxton Fellowship Intern, Department of Astronomy UW-Madison**
+* **06/2024 - 05/2025: Hubert Mack Thaxton Fellowship Intern, Department of Physics, UW-Madison**
 {% comment %}
 <!--  * Performed a mass constraint and TTV Analysis of the TOI-4468 system.
   * Utilized a Markov-Chain-Monte-Carlo fitting algorithm on both Radial Velocity Data and TESS Data. -->
@@ -96,4 +96,6 @@ Teaching
 
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Madison West High School Rocketry Captain and Fundraising Coordinator
+* Academic and Career Planning Chair
+* Madison West High School CORE Committee Chair Member
