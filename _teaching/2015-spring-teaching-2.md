@@ -1,5 +1,5 @@
 ---
-title: "Madison School and Community Recreation Program Leader"
+title: "[Madison School and Community Recreation Program Leader](https://www.mscr.org/)"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
