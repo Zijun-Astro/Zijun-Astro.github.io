@@ -20,7 +20,7 @@ Astrophysics, Exoplanets
   
 Research Experience:
 ======
-* **05/2025 - Present: Research Assistant, Department of Astronomy, UW-Madison**
+* **05/2025 - Present: High School Researcher, Department of Astronomy, UW-Madison**
 {% comment %}
 <!-- * Performed a TTV Analysis & and confirmation for the TOI-1937Ab system utilizing data from Andrew Vanderburg.
   * Published with Alyssa Jankowski as the 5th author on a research paper in PASP.
