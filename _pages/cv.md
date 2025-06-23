@@ -65,7 +65,7 @@ Presentations
 ======
 <ul> {% for post in site.talks reversed %}
   {% if post.talk_display == true %}
-    {% include archive-single-talk.html %}
+    <li> {% include archive-single-talk.html %} <li>
   {% endif %}
 {% endfor %}
 </ul>
