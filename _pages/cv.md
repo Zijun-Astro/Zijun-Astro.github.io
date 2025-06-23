@@ -63,7 +63,6 @@ Research Experience:
   * Explained the benefits of the Multi-Component Linear Regression Methodology versus the standard Gregory Method. -->
 {% endcomment %}
 
-
 Publications
 ======
 <ul>{% for post in site.publications reversed %}
@@ -72,12 +71,18 @@ Publications
   {% endunless %}
 {% endfor %}
 </ul>
-  
+
 Presentations
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
+
+Awards
+======
+* [Hubert Mack Thaxton Research Fellowship](https://www.physics.wisc.edu/undergraduate/student-resources/hubert-mack-thaxton-fellowship/)
+* [NASA Student Launch SLI Payload Design Award](https://www.nasa.gov/learning-resources/nasa-student-launch/current-teams/)
+* [NASA SEES Internship](https://www.csr.utexas.edu/education-outreach/high-school-internships/sees/)
 
 Teaching
 ======
