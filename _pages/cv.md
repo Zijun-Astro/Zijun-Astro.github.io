@@ -29,29 +29,39 @@ Research Experience:
 
  
 * **05/2025 - 12/2025: NASA STEM Enhancement in Earth Science (SEES)**
+{% comment %}
 <!--  * Accepted for the NASA SEES 2025 Cohort.
   * Utilizing HOPS, AstroImageJ, Stellarium, nd Markov-Chain-Monte-Carlo to analyze data from SARA and TESS.
   * Presenting the analysis at the American Geophysical Union Fall Conference. -->
- 
+{% endcomment %}
+
 * **02/2025 - 12/2025: Harvard Spatial Data Lab Intern**
+{% comment %}
 <!--  * Intern at the Harvard Spatial Data Lab
   * Developed a light pollution analysis method using Prophet, a time series forecasting tool.
   * Presented Research through the 2025 Harvard CGA Conference. -->
-  
+{% endcomment %}
+
 * **06/2024 - 08/2024: Hubert Mack Thaxton Fellowship Intern, Department of Astronomy UW-Madison**
+{% comment %}
 <!--  * Performed a mass constraint and TTV Analysis of the TOI-4468 system.
   * Utilized a Markov-Chain-Monte-Carlo fitting algorithm on both Radial Velocity Data and TESS Data. -->
+{% endcomment %}
 
 * **09/2024 - 06/2024: NASA Student Launch**
+{% comment %}
 <!--  * Data Analysis Lead and Hardware Engineer for the Madison West Rocket Club NASA Student Launch Team.
   * Worked on developing the Data Analysis Procedure to determine the effectiveness of baffle designs
   * Collaborated with the NASA SL team to build the design the payload.
   * Team was awarded the [SLI Payload Design Award](https://www.nasa.gov/learning-resources/nasa-student-launch/current-teams/) -->
-    
+{% endcomment %}
+
 * **06/2023 - 12/2023: AGU Bright STaRs Research Internship**
+{% comment %}
 <!--  * High School Research Presenter at the American Geophysical Union through the Bright STaRs Research Session.
   * Presented on extrapolation methodologies of three-dimensional general circulation models using ROCKE-3D data.
   * Explained the benefits of the Multi-Component Linear Regression Methodology versus the standard Gregory Method. -->
+{% endcomment %}
 
 
 Publications
