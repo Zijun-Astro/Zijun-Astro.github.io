@@ -63,12 +63,11 @@ Publications
   
 Presentations
 ======
-<ul> {% for post in site.talks reversed %}
+  <ul>{% for post in site.talks reversed %}
   {% if post.talk_display == true %}
-    <li> {% include archive-single-talk.html %} <li>
+    {% include archive-single-talk.html %}
   {% endif %}
-{% endfor %}
-</ul>
+{% endfor %}</ul>
 
 Teaching
 ======
