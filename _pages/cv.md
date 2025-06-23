@@ -81,8 +81,8 @@ Presentations
 Awards
 ======
 * [Hubert Mack Thaxton Research Fellowship](https://www.physics.wisc.edu/undergraduate/student-resources/hubert-mack-thaxton-fellowship/)
-* [NASA Student Launch SLI Payload Design Award](https://www.nasa.gov/learning-resources/nasa-student-launch/current-teams/)
-* [NASA SEES Internship](https://www.csr.utexas.edu/education-outreach/high-school-internships/sees/)
+* [NASA SLI Payload Design Award](https://www.nasa.gov/learning-resources/nasa-student-launch/current-teams/)
+* [NASA SEES Summer Research Internship](https://www.csr.utexas.edu/education-outreach/high-school-internships/sees/)
 
 Teaching
 ======
