@@ -54,7 +54,7 @@ Research Experience:
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
+<ul>{% for post in site.publications reversed %}
   {% unless post.cv_display == false %}
     {% include archive-single-cv.html %}
   {% endunless %}
@@ -72,7 +72,7 @@ Presentations
 
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
+<ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
