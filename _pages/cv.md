@@ -56,7 +56,7 @@ Research Experience:
   * Team was awarded the [SLI Payload Design Award](https://www.nasa.gov/learning-resources/nasa-student-launch/current-teams/) -->
 {% endcomment %}
 
-* **06/2023 - 12/2023: AGU Bright STaRs Research Students Training Program**
+* **06/2023 - 12/2023: AGU Bright STaRs Students Training Program**
 {% comment %}
 <!--  * High School Research Presenter at the American Geophysical Union through the Bright STaRs Research Session.
   * Presented on extrapolation methodologies of three-dimensional general circulation models using ROCKE-3D data.
