@@ -16,7 +16,7 @@ Education
 
 Research Interests:
 ======
-Astrophysics, Exoplanetary Science
+Astrophysics, Exoplanets
   
 Research Experience:
 ======
