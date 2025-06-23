@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-**West High School**								Madison, WI,
+**West High School**								, Madison, WI,
                                     2022-Present
 
 Research Interests:
@@ -28,14 +28,14 @@ Research Experience:
 {% endcomment %}
 
  
-* **05/2025 - 12/2025: NASA STEM Enhancement in Earth Science Program (NASA SEES)**
+* **05/2025 - Present: NASA STEM Enhancement in Earth Science Program (NASA SEES)**
 {% comment %}
 <!--  * Accepted for the NASA SEES 2025 Cohort.
   * Utilizing HOPS, AstroImageJ, Stellarium, nd Markov-Chain-Monte-Carlo to analyze data from SARA and TESS.
   * Presenting the analysis at the American Geophysical Union Fall Conference. -->
 {% endcomment %}
 
-* **02/2025 - 12/2025: Harvard Spatial Data Lab Intern**
+* **02/2025 - Present: Harvard Spatial Data Lab Intern**
 {% comment %}
 <!--  * Intern at the Harvard Spatial Data Lab
   * Developed a light pollution analysis method using Prophet, a time series forecasting tool.
@@ -94,4 +94,4 @@ Service and leadership
 ======
 * Madison West High School Rocketry Lead and Fundraising Coordinator
 * Academic and Career Planning Chair, Madison West High School
-* Senior Citizens CORE Committee Chair Member, Madison West High School
+* Senior Citizens CORE Member, Madison West High School
