@@ -25,7 +25,7 @@ Research Experience:
 <!-- * Performed a TTV Analysis & and confirmation for the TOI-1937Ab system utilizing data from Andrew Vanderburg.
   * Published with Alyssa Jankowski as the 5th author on a research paper in PASP.
   * Working on the TOI-1130 System to confirm the planetary characteristics of [Korth et al. 2023](https://ui.adsabs.harvard.edu/abs/2023A&A...675A.115K) using new TESS Data. -->
-{% comment %}
+{% endcomment %}
 
  
 * **05/2025 - 12/2025: NASA STEM Enhancement in Earth Science (SEES)**
