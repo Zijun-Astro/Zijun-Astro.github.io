@@ -28,7 +28,7 @@ Honors:
 
 [Description](https://www.csr.utexas.edu/education-outreach/high-school-internships/sees/)
 
-[Poster](https://www.canva.com/design/DAGtMig8ers/X9WZKJW3nc3pEgOXnzHfLA/edit?utm_content=DAGtMig8ers&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[Poster](https://drive.google.com/file/d/1tXg2UZHay5LQmnbrgCLe3_yCdVajzP-M/view?usp=drive_link)
 
 [Certificate](https://drive.google.com/file/d/1ZzUy9-MkKwpGhVRtB4ZsIHZpzjjcBssZ/view?usp=drive_link)
 
