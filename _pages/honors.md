@@ -24,7 +24,7 @@ Honors:
 
 [Official Announcement](https://www.nasa.gov/learning-resources/nasa-student-launch/current-teams/)
 
-**4) NASA STEM Enhancement in Earth Science (SEES) Internship and First Author for AGU SEES Poster**
+**4) NASA STEM Enhancement in Earth Science (SEES) Internship and Lead Author for AGU SEES Poster**
 
 [Description](https://www.csr.utexas.edu/education-outreach/high-school-internships/sees/)
 
