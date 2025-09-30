@@ -12,9 +12,9 @@ Honors:
 
 **1) Hubert Mack Thaxton Research Fellowship**
 
-[Announcement](https://www.instagram.com/p/DKvlhgYNa64/?img_index=1)
-
 [Description](https://www.physics.wisc.edu/undergraduate/student-resources/hubert-mack-thaxton-fellowship/)
+
+[Announcement](https://www.instagram.com/p/DKvlhgYNa64/?img_index=1)
 
 **2) Publication in the "Publications of the Astronomical Society of the Pacific" journal**
 
