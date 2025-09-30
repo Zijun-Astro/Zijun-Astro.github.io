@@ -14,7 +14,7 @@ Honors:
 
 [Description](https://www.physics.wisc.edu/undergraduate/student-resources/hubert-mack-thaxton-fellowship/)
 
-[Announcement](https://www.instagram.com/p/DKvlhgYNa64/?img_index=1)
+[Official Announcement](https://www.instagram.com/p/DKvlhgYNa64/?img_index=1)
 
 **2) Publication in the "Publications of the Astronomical Society of the Pacific" journal**
 
@@ -22,7 +22,7 @@ Honors:
 
 **3) 1st Place in the SLI Payload Design Award - Middle/High School Level**
 
-[Announcement](https://www.nasa.gov/learning-resources/nasa-student-launch/current-teams/)
+[Official Announcement](https://www.nasa.gov/learning-resources/nasa-student-launch/current-teams/)
 
 **4) NASA STEM Enhancement in Earth Science (SEES) Internship and First Author for AGU SEES Poster**
 
