@@ -10,21 +10,21 @@ author_profile: true
 Honors:
 ======
 
-**Hubert Mack Thaxton Research Fellowship**
+**1) Hubert Mack Thaxton Research Fellowship**
 
 [Announcement](https://www.instagram.com/p/DKvlhgYNa64/?img_index=1)
 
 [Description](https://www.physics.wisc.edu/undergraduate/student-resources/hubert-mack-thaxton-fellowship/)
 
-**Publication in the "Publications of the Astronomical Society of the Pacific" journal**
+**2) Publication in the "Publications of the Astronomical Society of the Pacific" journal**
 
 [Paper](https://iopscience.iop.org/article/10.1088/1538-3873/adbfbb)
 
-**1st Place in the SLI Payload Design Award - Middle/High School Level**
+**3) 1st Place in the SLI Payload Design Award - Middle/High School Level**
 
 [Awards](https://www.nasa.gov/learning-resources/nasa-student-launch/current-teams/)
 
-**NASA STEM Enhancement in Earth Science (SEES) Internship and First Author for AGU SEES Poster**
+**4) NASA STEM Enhancement in Earth Science (SEES) Internship and First Author for AGU SEES Poster**
 
 [Description](https://www.csr.utexas.edu/education-outreach/high-school-internships/sees/)
 
@@ -32,7 +32,7 @@ Honors:
 
 [Certificate](https://drive.google.com/file/d/1ZzUy9-MkKwpGhVRtB4ZsIHZpzjjcBssZ/view?usp=drive_link)
 
-**Harvard Spatial Data Lab (SDL) Internship**
+**5) Harvard Spatial Data Lab (SDL) Internship**
 
 [Description](https://sdl.gis.harvard.edu/internship-program)
 
