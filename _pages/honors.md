@@ -28,9 +28,9 @@ Honors:
 
 [Description](https://www.csr.utexas.edu/education-outreach/high-school-internships/sees/)
 
-[Poster](https://drive.google.com/file/d/1tXg2UZHay5LQmnbrgCLe3_yCdVajzP-M/view?usp=drive_link)
-
 [Certificate](https://drive.google.com/file/d/1ZzUy9-MkKwpGhVRtB4ZsIHZpzjjcBssZ/view?usp=drive_link)
+
+[AGU Poster](https://drive.google.com/file/d/1tXg2UZHay5LQmnbrgCLe3_yCdVajzP-M/view?usp=drive_link)
 
 **5) Harvard Spatial Data Lab (SDL) Internship**
 
