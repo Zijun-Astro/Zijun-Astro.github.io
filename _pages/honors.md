@@ -18,11 +18,11 @@ Honors:
 
 **2) Publication in the "Publications of the Astronomical Society of the Pacific" journal**
 
-[Paper](https://iopscience.iop.org/article/10.1088/1538-3873/adbfbb)
+[Link to Paper](https://iopscience.iop.org/article/10.1088/1538-3873/adbfbb)
 
 **3) 1st Place in the SLI Payload Design Award - Middle/High School Level**
 
-[Awards](https://www.nasa.gov/learning-resources/nasa-student-launch/current-teams/)
+[Announcement](https://www.nasa.gov/learning-resources/nasa-student-launch/current-teams/)
 
 **4) NASA STEM Enhancement in Earth Science (SEES) Internship and First Author for AGU SEES Poster**
 
