@@ -10,7 +10,7 @@ author_profile: true
 Honors:
 ======
 
-**Hubert Mack Thaxton Research Fellowship**
+***Hubert Mack Thaxton Research Fellowship***
 
 [Announcement](https://www.instagram.com/p/DKvlhgYNa64/?img_index=1)
 
