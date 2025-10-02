@@ -28,7 +28,11 @@ Honors:
 
 [Description](https://www.csr.utexas.edu/education-outreach/high-school-internships/sees/)
 
+[Official Announcement](https://www.linkedin.com/posts/nasa-sees_nationalinternday-exoplanets-spacescience-activity-7357023519899095040-um4G?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFZ69sgBrQFgWctRjYJ93QJN4Pu5hzous10)
+
 [Certificate](https://drive.google.com/file/d/1ZzUy9-MkKwpGhVRtB4ZsIHZpzjjcBssZ/view?usp=drive_link)
+
+[AGU Abstract](https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1859278)
 
 [AGU Poster](https://drive.google.com/file/d/1tXg2UZHay5LQmnbrgCLe3_yCdVajzP-M/view?usp=drive_link)
 
