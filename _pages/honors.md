@@ -32,7 +32,7 @@ Honors:
 
 [Certificate](https://drive.google.com/file/d/1ZzUy9-MkKwpGhVRtB4ZsIHZpzjjcBssZ/view?usp=drive_link)
 
-[AGU Abstract](https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1859278)
+[American Geophysical Union (AGU) Annual Meeting Abstract](https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1859278)
 
 [AGU Poster](https://drive.google.com/file/d/1tXg2UZHay5LQmnbrgCLe3_yCdVajzP-M/view?usp=drive_link)
 
