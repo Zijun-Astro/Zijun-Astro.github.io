@@ -34,7 +34,7 @@ Research Experience:
   * Presenting the analysis at the American Geophysical Union Fall Conference. -->
 {% endcomment %}
 
-* **02/2025 - Present: Harvard Spatial Data Lab Internship Program**
+* **03/2025 - 9/2025: Harvard Spatial Data Lab Internship Program**
 {% comment %}
 <!--  * Intern at the Harvard Spatial Data Lab
   * Developed a light pollution analysis method using Prophet, a time series forecasting tool.
