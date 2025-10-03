@@ -18,7 +18,7 @@ Honors:
 
 **2) Publication in the "Publications of the Astronomical Society of the Pacific" journal (2025)**
 
-[Link to Paper](https://iopscience.iop.org/article/10.1088/1538-3873/adbfbb)
+[Download Paper](https://iopscience.iop.org/article/10.1088/1538-3873/adbfbb)
 
 **3) 1st Place in the SLI Payload Design Award - Middle/High School Level (2025)**
 
