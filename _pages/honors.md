@@ -16,6 +16,8 @@ Honors:
 
 [Official Announcement](https://www.instagram.com/p/DKvlhgYNa64/?img_index=1)
 
+[ExoDyn Group](https://becker.astro.wisc.edu/exodyn-research-group/)
+
 **2) Publication in the "Publications of the Astronomical Society of the Pacific" journal (2025)**
 
 [Download Paper](https://iopscience.iop.org/article/10.1088/1538-3873/adbfbb)
